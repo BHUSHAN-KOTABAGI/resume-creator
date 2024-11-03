@@ -1,2 +1,0 @@
-# resume-creator
-resume project
